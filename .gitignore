@@ -1,6 +1,6 @@
 .vs
 *.sln
-Binares/
+Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
